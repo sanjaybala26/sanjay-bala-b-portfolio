@@ -27,7 +27,7 @@ export const academy = {
 export const socialLinks = {
   github: "https://github.com/sanjaybala26",
   linkedin: "https://www.linkedin.com/in/sanjay-bala-00b5a3235",
-  instagram: "",
+  instagram: "https://www.instagram.com/san_jay_33?psln=em5jZThlcW9wOTBp",
 };
 
 export const heroContent = {
@@ -140,7 +140,7 @@ export const projects = [
     description:
       "A campus-exclusive marketplace enabling verified students to safely buy, sell, and auction products with real-time chat and student discount management.",
     techTags: ["React.js", "Java", "Spring Boot", "MySQL"],
-    links: { github: "https://github.com/sanjaybala26/direct-deal", demo: "" },
+    links: { github: "https://github.com/sanjaybala26/directdeal-original", demo: "" },
     isFlagship: true,
   },
   {
@@ -160,9 +160,9 @@ export const projects = [
     badge: null,
     title: "AI-Driven Test Automation Framework",
     description:
-      "An automated end-to-end testing suite built with Selenium WebDriver and NLP featuring self-healing test logic for dynamic UI changes.",
-    techTags: ["Java", "Selenium", "NLP", "Test Automation"],
-    links: { github: "https://github.com/sanjaybala26/ai-test-automation", demo: "" },
+      "An automated end-to-end testing suite built with NLP featuring self-healing test logic for dynamic UI changes.",
+    techTags: ["NLP", "Test Automation"],
+    links: { github: "", demo: "" },
     isFlagship: false,
   },
 ];

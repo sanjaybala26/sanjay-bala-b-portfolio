@@ -2,7 +2,7 @@
 
 A high-performance single-page developer portfolio showcasing full-stack Java and React projects with fluid animations, interactive 3D splash effects, and responsive design.
 
-Live site: https://YOUR-SITE-URL/
+Live site: https://my-portfolio-eight-virid-38.vercel.app/
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
